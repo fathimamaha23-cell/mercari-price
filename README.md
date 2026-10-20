@@ -1,7 +1,7 @@
 \# Mercari Price Prediction
 ## 🚀 Live Demo
 
-Try the deployed application here: [Mercari Price Predictor](https://mercari-price-prediction-ycb6hayx4hjbnre58r8gmh.streamlit.app/)
+Try the deployed application here: [Mercari Price Predictor](https://mercari-price-5xer7zpatqjd8hjxucm4dq.streamlit.app/)
 
 **Source Code:** [GitHub Repository](https://github.com/eshagireesan/mercari-price-prediction)
 
