@@ -1,0 +1,23 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw data and temporary files
+train.tsv
+train.csv
+new_listings.csv
+predictions.csv
+batch_predictions.csv
+
+# Local configuration
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
